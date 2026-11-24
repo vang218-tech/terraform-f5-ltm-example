@@ -1,3 +1,5 @@
+# Input variables - no secret defaults
+
 variable "bigip_address" {
   description = "Management IP/hostname for BIG-IP - lab only"
   type        = string
